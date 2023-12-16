@@ -1,0 +1,17 @@
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\bin\Debug\net7.0-windows\PlaneGame.exe
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\bin\Debug\net7.0-windows\PlaneGame.deps.json
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\bin\Debug\net7.0-windows\PlaneGame.runtimeconfig.json
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\bin\Debug\net7.0-windows\PlaneGame.dll
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\bin\Debug\net7.0-windows\PlaneGame.pdb
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.Form1.resources
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.Properties.Resources.resources
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.csproj.GenerateResource.cache
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.AssemblyInfoInputs.cache
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.AssemblyInfo.cs
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.dll
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\refint\PlaneGame.dll
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.pdb
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\PlaneGame.genruntimeconfig.cache
+C:\Users\mhmmd\Desktop\Backend\KartOyunu\PlaneGame\obj\Debug\net7.0-windows\ref\PlaneGame.dll
